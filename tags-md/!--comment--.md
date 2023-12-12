@@ -3,7 +3,7 @@
 ### Defines a comment within the HTML code. Comments are not displayed in the browser.
 
 
-## Imported Thing about this tag
+## Important Things about this tag
 | #   | **Aspect**                        | **Description**                                            |
 | --- | --------------------------------- | ---------------------------------------------------------- |
 | 1   | **Documentation:**                | Essential for explaining code purpose and functionality.    |
