@@ -3,7 +3,7 @@
 ### Specifies the document type and version of HTML being used. Usually found at the beginning of an HTML document.
 
 
-## Imported Things
+## Important Things
 | #   | **Aspect**                       | **Description**                                                |
 | --- | ---------------------------------| -------------------------------------------------------------- |
 | 1   | **Definition:**                  | Specifies the document type and version of HTML being used.    |
